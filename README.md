@@ -1,2 +1,4 @@
-# notes-book-dsffap
-Notes from the book Distributed Systems For Fun and Profit
+# Distributed systems for fun and profit
+
+* [Book website](http://book.mixu.net/distsys/)
+* [GitHub](https://github.com/mixu/distsysbook)
